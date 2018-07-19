@@ -1,5 +1,5 @@
 # Google AIY mirror project
-
+Software link : https://drive.google.com/file/d/144Yg0Al4mAE3McA-34exVN2IjLLDf7DH/view?usp=sharing
 ## Introduction
 Hello there, if you like what I did, go subscribe to my [Youtube channel](https://www.youtube.com/channel/UCSt9bIi3GKhuTw7n1WaYz8Q)
 ### Steps to setup software a summary
@@ -17,4 +17,3 @@ fill out the email address and product name (btw name it what you named your pro
 If you are using the 2017 model of the AIY Voice HAT, the software will not detect the microphone and speaker. There are many work around but an easy one is to use version(yyyy) of software which is linked in software setup (step 1.). You can find more details about this in issue # 225 
 
 
-g installed go to the google (cloud services link:
