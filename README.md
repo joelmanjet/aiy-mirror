@@ -14,6 +14,6 @@ fill out the email address and product name (btw name it what you named your pro
 6. Now your done just run src/examples/voice/assistant_library_demo.py
 
 ### Troubleshooting issues I faced
-If you are using the 2017 model of the AIY Voice HAT, the software will not detect the microphone and speaker. There are many work around but an easy one is to use version(yyyy) of software which is linked in software setup (step 1.). You can find more details about this in issue # 225 
+If you are using the 2017 model of the AIY Voice HAT, the software will not detect the microphone and speaker. There are many work around but an easy one is to use version(yyyy) of software which is linked in software setup (step 1.). You can find more details about this in issue [# 225](https://github.com/google/aiyprojects-raspbian/issues/255) 
 
 
